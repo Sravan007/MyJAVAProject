@@ -1,6 +1,11 @@
-This is First statement !!!Welcome to Git!!!
-Better Change by Sandeep Change1
-Change 2
-Change 3
+//This is First statement !!!Welcome to Git!!!
 
-bug related to books module is resolved
+Class MyClass{
+
+Public Static Void Main(){
+
+//Better Change by Sandeep Change1 --> Idea Change -->Change-->1
+}
+
+}
+
